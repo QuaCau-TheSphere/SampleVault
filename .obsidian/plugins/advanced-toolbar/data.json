@@ -1,0 +1,37 @@
+{
+  "rowHeight": 48,
+  "rowCount": 2,
+  "spacing": 0,
+  "buttonWidth": 48,
+  "columnLayout": false,
+  "alwaysShowToolbar": true,
+  "mappedIcons": [
+    {
+      "commandID": "metaedit:metaEditRun",
+      "iconID": "lines-of-text"
+    },
+    {
+      "commandID": "templater-obsidian:insert-templater",
+      "iconID": "feather-menu"
+    },
+    {
+      "commandID": "obsidian-another-quick-switcher:search-command_Recommended search",
+      "iconID": "feather-search"
+    },
+    {
+      "commandID": "obsidian-editor-shortcuts:duplicateLine",
+      "iconID": "feather-plus"
+    },
+    {
+      "commandID": "obsidian-another-quick-switcher:move",
+      "iconID": "feather-folder"
+    },
+    {
+      "commandID": "obsidian-editor-shortcuts:deleteLine",
+      "iconID": "feather-minus"
+    }
+  ],
+  "debugging": false,
+  "allowStylingOfAllActions": false,
+  "tooltips": false
+}

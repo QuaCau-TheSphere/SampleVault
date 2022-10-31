@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "250a32accc4dd010",
+    "type": "split",
+    "children": [
+      {
+        "id": "12b5682cf8ba80ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "7 Nhu cầu/Có máy tính mới.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc5a6c4f1308b06d",
+    "type": "split",
+    "children": [
+      {
+        "id": "833d77bfc94d3a32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ac709342e0e282",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "15ecb013ede20383",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36bc95b9ed93da7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6b1f552e1c35b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a48acc81c956d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8908fc7c6379cb01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7 Nhu cầu/Có máy tính mới.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91bdaa5a2ee9f715",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7 Nhu cầu/Có máy tính mới.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "12b5682cf8ba80ae",
+  "lastOpenFiles": [
+    "5 Kiến thức, câu hỏi/Đánh giá rủi ro.md",
+    "2 Sản phẩm/Bài luận 1.md",
+    "00.0 Hướng dẫn sử dụng.md",
+    "00.1 Kế hoạch trong tuần.md",
+    "4 SWOT/41 Điểm yếu - khó khăn/Nghèo.md",
+    "7 Nhu cầu/Cải thiện mối quan hệ với người thân.md",
+    "7 Nhu cầu/Tự do tài chính.md",
+    "7 Nhu cầu/Có thời gian tập thể dục và chế độ ăn khoẻ mạnh.md",
+    "7 Nhu cầu/Có máy tính mới.md",
+    "4 SWOT/41 Điểm yếu - khó khăn/Đau lưng.md"
+  ]
+}

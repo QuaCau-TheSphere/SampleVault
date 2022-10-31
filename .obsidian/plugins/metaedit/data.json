@@ -1,0 +1,39 @@
+{
+  "ProgressProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "IgnoredProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Thể loại",
+        "choices": [
+          "trích dẫn"
+        ]
+      },
+      {
+        "name": "Mức độ",
+        "choices": [
+          "sát với thực tế",
+          "đi xa"
+        ]
+      }
+    ]
+  },
+  "EditMode": {
+    "mode": "All Single",
+    "properties": []
+  },
+  "KanbanHelper": {
+    "enabled": false,
+    "boards": []
+  },
+  "UIElements": {
+    "enabled": false
+  }
+}
